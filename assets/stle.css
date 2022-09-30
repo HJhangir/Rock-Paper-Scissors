@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    background-color: grey;
+
+}
+
+.main{
+    background: url(../assets/oyun.jpg) no-repeat ;
+    background-position: 50%;
+    height: 82vh;
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+    border: 33px solid grey;
+    background-color: grey;
+}
+
+.main button{
+    font-size: 24px;
+}
